@@ -1,0 +1,4 @@
+cooldown: 15 #saniye
+mesaj: "&bEnder incisi bekleme süresi: &f%sure% saniye"
+hazirmesaj: "&aTekrar ender incisi atılabilir."
+EPBlok: false #Ender Pearl bloklara hedef alırken atılabilsin mi?

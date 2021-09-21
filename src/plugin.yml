@@ -1,0 +1,8 @@
+author: AhmHkn
+name: EnderpearlCooldown
+main: me.AhmHkn.EnderpearlCooldown
+version: 1.0
+
+permissions:
+  enderpearl.cooldown.bypass:
+    default: op
